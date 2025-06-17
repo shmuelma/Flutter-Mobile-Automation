@@ -1,0 +1,1 @@
+GENERAL_MESSAGE = "Messages from user1@mail.com"

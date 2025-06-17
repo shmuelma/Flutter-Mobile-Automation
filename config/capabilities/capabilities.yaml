@@ -1,0 +1,21 @@
+android:
+  platformName: "Android"
+  deviceName: "R5CXB2MJXRT"
+  app: "C:/app-debug.apk"
+  automationName: "Flutter"
+  noReset: true
+
+android_emulator:
+  platformName: "Android"
+  deviceName: "emulator-5554"
+  app: "C:/apk/emulator_build.apk"
+  automationName: "UiAutomator2"
+  noReset: false
+
+ios:
+  platformName: "iOS"
+  deviceName: "iPhone Simulator"
+  platformVersion: "15.5"
+  bundleId: "com.example.iosApp"
+  automationName: "XCUITest"
+  noReset: true

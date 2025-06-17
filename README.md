@@ -1,6 +1,6 @@
 # Platform Mobile Automation with Pytest Framework
 
-This project is a **Appium-based testing framework** designed to automate mobile applications across platforms (Android, iOS), environments (QA, staging, production), and screen flows (Login, Welcome, Profile, etc.). It’s built using **Python, Pytest, and the Page Object Model (POM)**.
+This project is a **Appium-based testing framework** designed to automate mobile applications across platforms (Android, iOS), and screen flows (Login, Welcome, Profile, etc.). It’s built using **Python, Pytest, and the Page Object Model (POM)**.
 
 ---
 

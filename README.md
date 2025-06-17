@@ -30,7 +30,7 @@ pytest tests/
 
 
 ## 🧠 High-Level Design
-
+```
 project_root/
 │
 ├── config/
@@ -62,7 +62,7 @@ project_root/
 │   └── ...
 │                      
 └── conftest.py  
-
+```
 
 ## 🛠️ Steps to Make It a Scalable Multi-Platform Framework & Environments
 

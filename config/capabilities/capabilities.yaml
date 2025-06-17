@@ -5,6 +5,7 @@ android:
   automationName: "Flutter"
   noReset: true
 
+# An example of use for an Android emulator
 android_emulator:
   platformName: "Android"
   deviceName: "emulator-5554"
@@ -12,6 +13,7 @@ android_emulator:
   automationName: "UiAutomator2"
   noReset: false
 
+# An example of use for an IOS device
 ios:
   platformName: "iOS"
   deviceName: "iPhone Simulator"
